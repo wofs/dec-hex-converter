@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="dechex.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="25"/>
+      </Unit>
+      <Unit>
+        <Filename Value="forms\fmmainu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FmMainU"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="32" Y="201"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="vendors\twhexbinconverteru.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="TwHexBinConverterU"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="forms\fmaboutu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FmAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FmAboutU"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="3" Y="52"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\Programs\Lazarus\fpcsrc\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="72"/>
+        <CursorPos X="8" Y="201"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\Programs\Lazarus\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="17"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\Programs\Lazarus\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1705"/>
+        <CursorPos X="14" Y="1723"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\Programs\Lazarus\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="532"/>
+        <CursorPos X="18" Y="561"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\Репозитории\ipricese\ipricese.lpr"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="89" Y="11"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mainu.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="52"/>
+        <CursorPos X="39" Y="67"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\Programs\Lazarus\fpcsrc\packages\fcl-base\src\fileinfo.pp"/>
+        <UnitName Value="FileInfo"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="28"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="75" TopLine="64"/>
+      </Position1>
+      <Position2>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="36"/>
+      </Position2>
+      <Position3>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="198" Column="40" TopLine="179"/>
+      </Position3>
+      <Position4>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="116" Column="3" TopLine="96"/>
+      </Position4>
+      <Position5>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="9" Column="82"/>
+      </Position5>
+      <Position6>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="247" TopLine="208"/>
+      </Position6>
+      <Position7>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="116" Column="20" TopLine="114"/>
+      </Position7>
+      <Position8>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="74" Column="10" TopLine="61"/>
+      </Position8>
+      <Position9>
+        <Filename Value="forms\fmmainu.pas"/>
+        <Caret Line="76" Column="43"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
